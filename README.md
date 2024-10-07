@@ -1,3 +1,7 @@
+💻 Mestre em Tecnologia da Informação e Desenvolvedor com mais de 5 anos de experiência.
+
+## Tecnologias que eu uso no meu dia
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Thiago-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Thiago-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
